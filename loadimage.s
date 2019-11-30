@@ -1,8 +1,3 @@
-; name : Alexander Jones
-; uid : U5956709
-
-; your solution goes here
-
 0x0100 :
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 R :
